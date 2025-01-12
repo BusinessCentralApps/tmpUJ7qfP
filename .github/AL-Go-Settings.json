@@ -1,0 +1,9 @@
+{
+  "useCompilerFolder": false,
+  "type": "PTE",
+  "runs-on": "ubuntu-latest",
+  "doNotPublishApps": false,
+  "shell": "pwsh",
+  "templateUrl": "https://github.com/businesscentralapps/tmpQI60cu-PTE@main",
+  "MicrosoftTelemetryConnectionString": ""
+}
